@@ -131,9 +131,9 @@ hr {
     background-color:gray;
 }
 
-.refer{
-    padding-left: 20px;
-    line-height: 2px;
+.refer {
+    word-wrap: break-all;
+    word-wrap: break-word;
 }
 
 .resources {
