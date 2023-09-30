@@ -105,18 +105,18 @@ section {
     }
 }
 
-article {
+.box {
     padding: 60px;
     display: inline-block;
     flex:1 0px;
 }
 
-article h3 {
+.box h3 {
     text-align: center;
     padding-bottom: 10px;
 }
 
-article p {
+.box p {
     padding-top: 10px;
     text-align: center;
     letter-spacing: 0.5px;
