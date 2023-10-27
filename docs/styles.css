@@ -90,6 +90,7 @@ button {
     cursor: pointer;
 }
 
+/* Flexbox */
 section {
     display: flex;
     flex-direction: row;
